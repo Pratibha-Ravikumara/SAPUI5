@@ -26,7 +26,7 @@ Test it by
 Clone this repository and navigate to the folder
 
 ```bash
-    npm Install
+    npm install
 ```
 To create a local persistancy in your system run
 
