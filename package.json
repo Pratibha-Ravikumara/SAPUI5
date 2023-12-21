@@ -9,12 +9,6 @@
       }
     }
   },
-  "dependencies": {
-    "@sap/cds-odata-v2-adapter-proxy": "^1.8.6"
-  },
-  "devDependencies": {
-    "sqlite3": "^5.0.2"
-  },
   "name": "cap",
   "description": "",
   "version": "1.0.0",
@@ -31,5 +25,11 @@
   "bugs": {
     "url": "https://github.com/codingwithsijas/sample-odata-service/issues"
   },
-  "homepage": "https://github.com/codingwithsijas/sample-odata-service#readme"
+  "homepage": "https://github.com/codingwithsijas/sample-odata-service#readme",
+  "devDependencies": {
+    "sqlite3": "^5.1.6"
+  },
+  "dependencies": {
+    "@sap/cds-odata-v2-adapter-proxy": "^1.9.21"
+  }
 }
